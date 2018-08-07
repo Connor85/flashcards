@@ -15,13 +15,11 @@ h2  {
   width: 50%;
   border: 1px solid black;
   margin-bottom: 15px;
-  /*float:right;*/
+  float:left;
 }
 
-p.javascript {
+p {
   display: none;
-}
-
-p.operators {
-  display: none;
+  padding-left: 10px;
+  padding-right:10px;
 }
